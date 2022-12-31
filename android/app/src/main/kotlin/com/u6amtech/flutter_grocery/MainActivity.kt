@@ -1,4 +1,4 @@
-package com.shop.userapp
+package com.ahilyaapp.ahilya
 
 import io.flutter.embedding.android.FlutterActivity
 

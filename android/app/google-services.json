@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "566789707436",
-    "project_id": "heart-wish",
-    "storage_bucket": "heart-wish.appspot.com"
+    "project_number": "845331448890",
+    "project_id": "ahilya-8dbbf",
+    "storage_bucket": "ahilya-8dbbf.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:566789707436:android:7785da45c3196826d17109",
+        "mobilesdk_app_id": "1:845331448890:android:101d3fd268eff9bade6103",
         "android_client_info": {
-          "package_name": "com.heartwish.delivery"
+          "package_name": "com.ahilyaapp.ahilya"
         }
       },
       "oauth_client": [
         {
-          "client_id": "566789707436-4ka9ml8liu0v3l2013q0aploamd30mmk.apps.googleusercontent.com",
+          "client_id": "845331448890-cice2m45er2p2hgrvha45b13uo0cjrid.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCZdtWGkr3Z6EHCz0S3ed67A8GZc0ErAN4"
+          "current_key": "AIzaSyD4SfLGr73_TILIMRjlMqMG_chYduCZQEc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "566789707436-4ka9ml8liu0v3l2013q0aploamd30mmk.apps.googleusercontent.com",
+              "client_id": "845331448890-cice2m45er2p2hgrvha45b13uo0cjrid.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -36,85 +36,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:566789707436:android:f4892c6cdacc36c4d17109",
+        "mobilesdk_app_id": "1:845331448890:android:56fba937565628efde6103",
         "android_client_info": {
-          "package_name": "com.heartwish.store"
+          "package_name": "com.strixdigital.Ahilya"
         }
       },
       "oauth_client": [
         {
-          "client_id": "566789707436-4ka9ml8liu0v3l2013q0aploamd30mmk.apps.googleusercontent.com",
+          "client_id": "845331448890-cice2m45er2p2hgrvha45b13uo0cjrid.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCZdtWGkr3Z6EHCz0S3ed67A8GZc0ErAN4"
+          "current_key": "AIzaSyD4SfLGr73_TILIMRjlMqMG_chYduCZQEc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "566789707436-4ka9ml8liu0v3l2013q0aploamd30mmk.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:566789707436:android:cc14b0290801a84ed17109",
-        "android_client_info": {
-          "package_name": "com.heartwish.storeapp"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "566789707436-4ka9ml8liu0v3l2013q0aploamd30mmk.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCZdtWGkr3Z6EHCz0S3ed67A8GZc0ErAN4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "566789707436-4ka9ml8liu0v3l2013q0aploamd30mmk.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:566789707436:android:771e02b19105237cd17109",
-        "android_client_info": {
-          "package_name": "com.shop.userapp"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "566789707436-4ka9ml8liu0v3l2013q0aploamd30mmk.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCZdtWGkr3Z6EHCz0S3ed67A8GZc0ErAN4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "566789707436-4ka9ml8liu0v3l2013q0aploamd30mmk.apps.googleusercontent.com",
+              "client_id": "845331448890-cice2m45er2p2hgrvha45b13uo0cjrid.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
